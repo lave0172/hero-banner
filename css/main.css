@@ -19,7 +19,7 @@ html {
 }
 
 .content {
-  max-width: 50em;
+  max-width: 300px;
   position: absolute;
   bottom: 2rem;
   left: 50%;
